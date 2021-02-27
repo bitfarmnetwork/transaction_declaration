@@ -1,0 +1,45 @@
+Address
+0x4b1472baa651253498fe1d5ba33f02a3dea4d478
+Name
+Transfer (index_topic_1 address from, index_topic_2 address to, uint256 value)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x1f09fe677f3eab1ee76c6a85e049cc6ec871369c
+2  0xfa402345caa9491166e3766d057b9fa81e79a9ad
+Data
+value :
+217608000000000000000
+
+Transaction Hash:
+0x37145fa25fdf85a60baea508644a50a55876637fdeeb683c4894f08030a82cbf 
+Status:
+Success
+Block:
+5251298 4 Block Confirmations
+Timestamp:
+19 secs ago (Feb-27-2021 06:59:39 PM +UTC)
+From:
+0x1f09fe677f3eab1ee76c6a85e049cc6ec871369c 
+Interacted With (To):
+Contract 0x4b1472baa651253498fe1d5ba33f02a3dea4d478 
+Tokens Transferred:
+From 0x1f09fe677f3eab1ee76c6a85e049cc6ec871369cTo 0xfa402345caa9491166e3766d057b9fa81e79a9ad For 217.608 BitFarm (BFE)
+Value:
+0 BNB ($0.00)
+Transaction Fee:
+0.00051186 BNB ($0.12)
+Gas Limit:
+76,779
+Gas Used by Transaction:
+51,186 (66.67%)
+Gas Price:
+0.00000001 BNB (10 Gwei)
+Nonce Position
+34 54
+Input Data:
+Function: transfer(address dst, uint256 amount) ***
+
+MethodID: 0xa9059cbb
+[0]:  000000000000000000000000fa402345caa9491166e3766d057b9fa81e79a9ad
+[1]:  00000000000000000000000000000000000000000000000bcbeaeb103b340000
